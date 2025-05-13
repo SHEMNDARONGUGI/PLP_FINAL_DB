@@ -9,9 +9,7 @@ This database can be used as the foundation for building an e-commerce applicati
 ## Entity-Relationship Diagram (ERD)
 
 Below is the ERD for the Smart E-commerce Database. This diagram visually represents the relationships between the tables in the database:
-
-
-![MY ERD](<final_database project.png>)
+![alt text](image.png)
 
 ## How to Set Up the Database
 
